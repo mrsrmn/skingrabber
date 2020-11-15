@@ -3,7 +3,7 @@
 # SkinGrabber
 A Python API wrapper for Minecraft skins and UUID's
 
-Current Version = `0.1.1`
+Current Version = `0.1.4`
 
 ## Documentation
 

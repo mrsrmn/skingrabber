@@ -46,4 +46,4 @@ class skingrabber:
 
     @staticmethod
     def __version__():
-        return 0, 1, 1
+        return "0.1.4"
