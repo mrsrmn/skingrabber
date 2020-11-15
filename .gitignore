@@ -2,4 +2,3 @@
 build/
 dist/
 skingrabber.egg-info/
-twine upload --repository-url https://skingrabber.pypi.org/legacy/ dist/*
