@@ -5,17 +5,17 @@ A Python API wrapper for Minecraft skins and UUID's
 
 Current Version = `0.1.1`
 
-##Documentation
+## Documentation
 
 Documentation is available here: https://skingrabber.readthedocs.io/
 
-##Installation
+## Installation
 
 To install skingrabber, do:
 
 `pip install skingrabber` or `pip3 install skingrabber`
 
-##Examples
+## Examples
 
 Some examples are avalible in the [examples folder](https://github.com/MakufonSkifto/skingrabber/tree/master/examples)
 
