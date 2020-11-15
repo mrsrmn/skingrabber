@@ -1,0 +1,23 @@
+.. skingrabber documentation master file, created by
+   sphinx-quickstart on Sun Nov 15 14:07:38 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to skingrabber's documentation!
+=======================================
+
+This is the unofficial wrapper for the Minecreaft Skin Grabber API.
+
+The GitHub repository can be found here: https://github.com/MakufonSkifto/skingrabber
+
+
+
+.. toctree::
+   :maxdepth: 2
+
+   install
+   func
+
+
+
+
