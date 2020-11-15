@@ -17,7 +17,6 @@ The GitHub repository can be found here: https://github.com/MakufonSkifto/skingr
 
    install
    func
-   exceptions
 
 
 

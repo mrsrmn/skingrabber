@@ -13,7 +13,7 @@ or
 ``pip3 install skingrabber``
 
 
-Some examples are provided on `GitHub <https://github.com/MylesMor/hypixelapi/tree/master/examples>`_.
+Some examples are provided on `GitHub <https://github.com/MakufonSkifto/skingrabber/tree/main/examples>`_.
 
 
 Examples
