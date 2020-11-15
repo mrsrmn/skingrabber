@@ -46,3 +46,7 @@ class skingrabber:
 
             uuid = responsejson["id"]
             return f"https://crafatar.com/renders/body/{uuid}"
+
+    @staticmethod
+    def __version__():
+        return 0, 1, 1
