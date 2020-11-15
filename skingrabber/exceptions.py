@@ -1,0 +1,3 @@
+
+class PlayerNotFound(Exception):
+    pass
