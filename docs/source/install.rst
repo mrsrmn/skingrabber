@@ -26,3 +26,17 @@ Examples
   from skingrabber import skingrabber
   response = skingrabber.get_skin('username')
   print(response)
+
+.. code-block:: python
+  :linenos:
+
+  from skingrabber import skingrabber
+  response = skingrabber.get_uuid('username')
+  print(response)
+
+.. code-block:: python
+  :linenos:
+
+  from skingrabber import skingrabber
+  response = skingrabber.get_skin_rendered('username')
+  print(response)

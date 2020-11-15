@@ -43,6 +43,30 @@
 <p><code class="docutils literal notranslate"><span class="pre">pip3</span> <span class="pre">install</span> <span class="pre">skingrabber</span></code></p>
 <p>Some examples are provided on <a class="reference external" href="https://github.com/MylesMor/hypixelapi/tree/master/examples">GitHub</a>.</p>
 </div>
+<div class="section" id="examples">
+<h2>Examples<a class="headerlink" href="#examples" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">skingrabber</span> <span class="kn">import</span> <span class="n">skingrabber</span>
+<span class="n">response</span> <span class="o">=</span> <span class="n">skingrabber</span><span class="o">.</span><span class="n">get_skin</span><span class="p">(</span><span class="s1">&#39;username&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">response</span><span class="p">)</span>
+</pre></div>
+</td></tr></table></div>
+<div class="highlight-python notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">skingrabber</span> <span class="kn">import</span> <span class="n">skingrabber</span>
+<span class="n">response</span> <span class="o">=</span> <span class="n">skingrabber</span><span class="o">.</span><span class="n">get_uuid</span><span class="p">(</span><span class="s1">&#39;username&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">response</span><span class="p">)</span>
+</pre></div>
+</td></tr></table></div>
+<div class="highlight-python notranslate"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">skingrabber</span> <span class="kn">import</span> <span class="n">skingrabber</span>
+<span class="n">response</span> <span class="o">=</span> <span class="n">skingrabber</span><span class="o">.</span><span class="n">get_skin_rendered</span><span class="p">(</span><span class="s1">&#39;username&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">response</span><span class="p">)</span>
+</pre></div>
+</td></tr></table></div>
+</div>
 </div>
 
 
@@ -65,6 +89,7 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Getting Started</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#installation">Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#examples">Examples</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="func.html">Functions</a></li>
