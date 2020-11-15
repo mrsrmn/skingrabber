@@ -24,19 +24,28 @@ Examples
   :linenos:
 
   from skingrabber import skingrabber
-  response = skingrabber.get_skin('username')
+
+  sg = skingrabber()
+
+  response = sg.get_skin(user='username')
   print(response)
 
 .. code-block:: python
   :linenos:
 
   from skingrabber import skingrabber
-  response = skingrabber.get_uuid('username')
+
+  sg = skingrabber()
+
+  response = sg.get_uuid(user='username')
   print(response)
 
 .. code-block:: python
   :linenos:
 
   from skingrabber import skingrabber
-  response = skingrabber.get_skin_rendered('username')
+
+  sg = skingrabber()
+
+  response = sg.get_skin_rendered(user="emirsurmen")
   print(response)
