@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="skingrabber",
-    version="0.1.1",
+    version="0.1.4",
     author="MakufonSkifto",
     author_email="emirsurmen@gmail.com",
     license="MIT",
