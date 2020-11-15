@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/skingrabber/badge/?version=latest)](https://skingrabber.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/skingrabber/badge/?version=latest)](https://skingrabber.readthedocs.io/en/latest/?badge=latest)  [![PyPI version](https://badge.fury.io/py/skingrabber.svg)](https://badge.fury.io/py/skingrabber)
 
 # SkinGrabber
 A Python API wrapper for Minecraft skins and UUID's
