@@ -17,6 +17,6 @@ To install skingrabber, do:
 
 ## Examples
 
-Some examples are avalible in the [examples folder](https://github.com/MakufonSkifto/skingrabber/tree/master/examples)
+Some examples are available in the [examples folder](https://github.com/MakufonSkifto/skingrabber/tree/master/examples)
 
 For more detailed explanations and functions, visit [the docs](https://skingrabber.readthedocs.io/)
