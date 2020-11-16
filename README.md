@@ -13,7 +13,7 @@ Documentation is available here: https://skingrabber.readthedocs.io/
 
 To install skingrabber, do:
 
-`pip install skingrabber` or `pip3 install skingrabber`
+`pip install skingrabber` or `python -m pip install skingrabber`
 
 ## Examples
 
