@@ -6,11 +6,11 @@
 Welcome to skingrabber's documentation!
 =======================================
 
-This is the unofficial wrapper for the Minecreaft Skin Grabber API.
+This is the unofficial wrapper for the Minecraft Skin Grabber API.
 
 The GitHub repository can be found here: https://github.com/MakufonSkifto/skingrabber
 
-PyPI: https://pypi.org/project/skingrabber/0.1.4/
+PyPI: https://pypi.org/project/skingrabber/
 
 
 
