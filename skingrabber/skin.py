@@ -13,7 +13,7 @@ class skingrabber:
 
         response = requests.get(self.url + user)
         if response.status_code != 200:
-            return None
+            pass
         else:
             responsejson = json.loads(response.content)
 
@@ -25,7 +25,7 @@ class skingrabber:
 
         response = requests.get(self.url + user)
         if response.status_code != 200:
-            return None
+            pass
         else:
             responsejson = json.loads(response.content)
 
@@ -37,7 +37,7 @@ class skingrabber:
 
         response = requests.get(self.url + user)
         if response.status_code != 200:
-            return None
+            pass
         else:
             responsejson = json.loads(response.content)
 
